@@ -6,6 +6,7 @@ Python'da indeks, bir koleksiyon veri yapısındaki (örneğin liste, demet, diz
 ÖRNEK:
 
 liste=[1,2,3,4,5]
+
 print(liste[2])
 
 <a href="https://github.com/ebrarrkaya/404/blob/64fdfdfed244761e1979b585928026330945f200/e1.PNG">ÇIKTISI İÇİN TIKLAYINIZ</a>
