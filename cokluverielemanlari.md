@@ -2,6 +2,11 @@
 Çoklu veri elemanları, tek bir değişkende birden fazla veriyi depolayabildiğimiz yapıya denir. Python'da "çoklu veri elemanları" terimi, birden fazla veriyi tek bir yapıda saklamaya yarayan veri türlerini ifade eder. Python, birden fazla veri elemanını bir arada tutabilen ve üzerinde işlem yapabilen çeşitli veri yapıları sunar. Bunlar genellikle koleksiyon (collection) veri türleri olarak adlandırılır.
 
 Python'da çoklu veri elemanları kullanabileceğiniz başlıca veri yapıları şunlardır:
+1) Listeler
+2) Diziler
+3) Demetler
+4) Sözlükler
+   
 # LİSTELER
 Çoklu veri tiplerini tutmamızı sağlayan dizilerdir. Adından da anlaşılaca ğı üzere içerisinde liste şeklinde birden fazla eleman bulundurmaktadır.
 
@@ -26,6 +31,7 @@ print(isimler[3])
 
 Görüldüğü üzere listemizin içerisine farklı veri tipinde elemanlar atadık ve her birinin birer indeks numarası bulunmaktadır. Liste içerisinden 1 elemanına ulaşmak için o elemanın indeks numarasını (3) girdik.
 
-# DİZİLER
+
+
 
 
