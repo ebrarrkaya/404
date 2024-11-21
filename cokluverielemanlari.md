@@ -26,3 +26,6 @@ print(isimler[3])
 
 Görüldüğü üzere listemizin içerisine farklı veri tipinde elemanlar atadık ve her birinin birer indeks numarası bulunmaktadır. Liste içerisinden 1 elemanına ulaşmak için o elemanın indeks numarasını (3) girdik.
 
+# DİZİLER
+
+
