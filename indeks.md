@@ -36,3 +36,16 @@ degisken="Bugun hava cok guzel"
 print(degisken[6:])
 
 <a href="https://github.com/ebrarrkaya/404/blob/d5e8413b0fc50954df6b1e8c403cb244a3fd4420/e4.PNG">ÇIKTISI İÇİN TIKLAYINIZ</a>
+
+# ATLAMALI ÇIKTI ALMA
+
+Python'da karaktersel verileri atlamalı olarak da çıktı alabilmekteyiz. Bunun için başlangıç indeksini ve bitiş indeksini girdikten sonra bir daha iki nokta üs üste işaretini koyup atlanma miktarı girilmelidir.
+
+Örneğin: 1. indeksten u harfinden başlanarak 19. indekse yani 1 harfine kadar, ikişerli ikişerli atlayarak yazmak istediğimizde şu şekilde kodumuzu çalıştırmamız gerekmektedir:
+
+degisken="Bugun hava cok guzel"
+
+print(degisken [1:20:23])
+
+<a href="https://github.com/ebrarrkaya/404/blob/9ea7278813cb44ffb94b1e9fd293857d232f60a4/e6.PNG">ÇIKTISI İÇİN TIKLAYINIZ</a>
+
