@@ -1,4 +1,4 @@
-#LISTE İÇERİSİNDEKİ ELEMANI ÇIKARTMA
+# LISTE İÇERİSİNDEKİ ELEMANI ÇIKARTMA
 
 Liste içerisinden eleman çıkarmak istediğimizde ise .remove metodunu kulla- nırız. Bunun için listemizi oluştururuz. Daha sonra liste ismimizi yazıp.remove metodunu çağırırız, parantez açarız ve parantez içerisine çıkarmak istediğimiz elemanı yazarız. Örnek kodumuz üzerinden inceleyelim.
 
