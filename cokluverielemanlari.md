@@ -31,6 +31,14 @@ print(isimler[3])
 
 Görüldüğü üzere listemizin içerisine farklı veri tipinde elemanlar atadık ve her birinin birer indeks numarası bulunmaktadır. Liste içerisinden 1 elemanına ulaşmak için o elemanın indeks numarasını (3) girdik.
 
+[LISTEYE ELEMAN EKLEME İŞLEMİ](https://github.com/ebrarrkaya/404/blob/ed84c8236510c0e679fbdbe1f6c3725cbfd444dd/ekleme.md)
+
+[LISTE İÇERİSİNDEKİ ELEMANI ÇIKARTMA](https://github.com/ebrarrkaya/404/blob/ed84c8236510c0e679fbdbe1f6c3725cbfd444dd/C%C4%B0KARTMA.md)
+
+[LISTE İÇERİSİNDEKİ ELEMANI DEĞİŞTİRME](https://github.com/ebrarrkaya/404/blob/08a9ec487e4f08c700f312890da6ccf6e113fd1d/eleman%20de%C4%9Fi%C5%9Ftirme.md)
+
+
+
 
 
 
